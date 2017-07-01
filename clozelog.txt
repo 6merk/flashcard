@@ -1,0 +1,11 @@
+
+{
+  "back": "Michael Jordan wore the number 23",
+  "front": "Michael Jordan wore the number...",
+  "delete": "23"
+}
+{
+  "back": "Pele is known for being a really good soccer player",
+  "front": "Pele is known for being a really good...",
+  "delete": "soccer player"
+}

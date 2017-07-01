@@ -1,0 +1,9 @@
+
+Front: Who won the 2017 NBA Finals?, Back: Golden State Warriors
+Front: Who wore the famous number 23 and played for the Chicago Bulls?, Back: Michael Jordan{
+  "front": "What is the center of an atom called?",
+  "back": "Nucleus"
+}{
+  "front": "What sport is Pele associated with?",
+  "back": "Soccer"
+}
